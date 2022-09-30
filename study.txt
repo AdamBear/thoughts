@@ -1,0 +1,2 @@
+Complete the Taro tutorial, learn the diffirent between UniApp and Taro.
+Study UI component library UView
