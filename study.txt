@@ -1,4 +1,5 @@
 Complete the Taro tutorial, learn the diffirent between UniApp and Taro.
 Study UI component library UView
 Code.fun research
-lanhu product design tool research, not complete
+lanhu product design tool research, not complet
+read the book 《The Dog Money》, learn how to tell a story.
