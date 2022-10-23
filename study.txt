@@ -7,3 +7,4 @@ research the big screen solution DataV
 study Web3.0: https://github.com/AdamBear/Web3.0-club
 study VUE3: https://vue3js.cn/start/
 study graphana
+AI project restart.
