@@ -13,3 +13,4 @@ record my thoughts, ideas, study material
 - [X] study graphana
 - [X] AI project restart.
 - [ ] **study video tools like AE**
+- [ ] ``some other staff``
