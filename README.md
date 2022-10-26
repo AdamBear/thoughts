@@ -12,3 +12,4 @@ record my thoughts, ideas, study material
 - [ ] study VUE3: https://vue3js.cn/start/
 - [X] study graphana
 - [X] AI project restart.
+-# [ ] study video tools like AE
