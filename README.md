@@ -1,5 +1,5 @@
 # thoughts
-record my thoughts, ideas, study material
+record my thoughts, ideas, study materi
 
 ## To-Do List
 - [X] Complete the Taro tutorial, learn the diffirent between UniApp and Taro.
@@ -13,4 +13,5 @@ record my thoughts, ideas, study material
 - [X] study graphana
 - [X] AI project restart.
 - [X] study video tools like AE
-- [ ] tarui multi-platform app develop: https://tauri.app/
+more todos
+- [ ] tarui multi-platform app develop: https://tauri.ap
