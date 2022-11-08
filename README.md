@@ -13,5 +13,6 @@ record my thoughts, ideas, study materi
 - [X] study graphana
 - [X] AI project restart.
 - [X] study video tools like AE
-more todos
 - [ ] tarui multi-platform app develop: https://tauri.ap
+- [ ] google kickstart:
+https://codingcompetitions.withgoogle.com/kickstart/archive
