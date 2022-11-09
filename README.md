@@ -14,6 +14,7 @@ record my thoughts, ideas, study materi
 - [X] AI project restart.
 - [X] study video tools like AE
 - [ ] tarui multi-platform app develop: https://tauri.ap
-- [ ] study golang
+- [ ] study golang, distributed progamming len
+- [ ] study vitejs, new generation of frontend tooling 
 - [ ] google kickstart:
 https://codingcompetitions.withgoogle.com/kickstart/archive
