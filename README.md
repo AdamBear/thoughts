@@ -16,5 +16,6 @@ record my thoughts, ideas, study materi
 - [ ] tarui multi-platform app develop: https://tauri.ap
 - [ ] study golang, distributed progamming len
 - [ ] study vitejs, new generation of frontend tooling 
+- [ ] research vido autocut and auto dubbing service 
 - [ ] google kickstart:
 https://codingcompetitions.withgoogle.com/kickstart/archive
