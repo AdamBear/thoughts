@@ -21,3 +21,4 @@ record my thoughts, ideas, study materi
 https://github.com/unib0ts/unibots-lipsync
 - [ ] google kickstart:
 https://codingcompetitions.withgoogle.com/kickstart/archive
+- [ ] play video games on PS5 every day
