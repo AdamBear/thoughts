@@ -22,3 +22,4 @@ https://github.com/unib0ts/unibots-lipsync
 - [ ] google kickstart:
 https://codingcompetitions.withgoogle.com/kickstart/archive
 - [ ] play video games on PS5 every day
+- [X] tested github codespaces, very impressed!
