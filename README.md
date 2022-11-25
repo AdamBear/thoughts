@@ -1,5 +1,5 @@
 # thoughts
-record my thoughts, ideas, study materi
+record my thoughts, ideas, study
 
 ## To-Do List
 - [X] Complete the Taro tutorial, learn the diffirent between UniApp and Taro.
@@ -24,3 +24,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [ ] play video games on PS5 every day
 - [X] tested github codespaces, very impressed!
 - [X] auto dubbing chinese short video to english
+- [X] restart 2D digital human research again
