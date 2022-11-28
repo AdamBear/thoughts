@@ -25,3 +25,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [X] tested github codespaces, very impressed!
 - [X] auto dubbing chinese short video to english
 - [X] restart 2D digital human research again
+- [X] commit to everyday's work routines.
