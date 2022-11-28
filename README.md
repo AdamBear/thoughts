@@ -26,3 +26,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [X] auto dubbing chinese short video to english
 - [X] restart 2D digital human research again
 - [X] commit to everyday's work routines.
+- [X] upgraded PaddleOCR module to ch_PP-ocrv3 
