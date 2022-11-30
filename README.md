@@ -28,3 +28,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [X] commit to everyday's work routines.
 - [X] upgraded PaddleOCR module to ch_PP-ocrv3 
 - [X] treat tech research as a investment
+- [X] hard subtitle and watermark removal
