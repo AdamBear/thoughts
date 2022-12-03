@@ -29,3 +29,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [X] upgraded PaddleOCR module to ch_PP-ocrv3 
 - [X] treat tech research as a investment
 - [X] hard subtitle and watermark removal
+- [ ] wav2lip research again 
