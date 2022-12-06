@@ -31,3 +31,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [X] hard subtitle and watermark removal
 - [ ] wav2lip research again
 - [ ] NLP generation research
+- [ ] image editing with diffusion model
