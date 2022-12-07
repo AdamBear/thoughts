@@ -32,3 +32,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [ ] wav2lip research again
 - [ ] NLP generation research
 - [ ] image editing with diffusion model
+- [ ] one leetcode problem a day
