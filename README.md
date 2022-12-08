@@ -33,3 +33,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [ ] NLP generation research
 - [ ] image editing with diffusion model
 - [ ] one leetcode problem a day
+- [ ] wav2lip and GFPGan testing
