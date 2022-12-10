@@ -34,3 +34,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [ ] image editing with diffusion model
 - [ ] one leetcode problem a day
 - [ ] wav2lip and GFPGan testing
+- [ ] playing more video games
