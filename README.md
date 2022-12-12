@@ -35,3 +35,4 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [ ] one leetcode problem a day
 - [ ] wav2lip and GFPGan testing
 - [ ] playing more video games
+- [X] one leetcode problem a day, 2022/12/12
