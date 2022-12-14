@@ -37,3 +37,5 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [ ] playing more video games
 - [X] one leetcode problem a day, 2022/12/12
 - [X] one leetcode problem a day, 2022/12/13
+- [ ] research talking head methods:
+https://github.com/LTT-O/Talking_Head_Generation
