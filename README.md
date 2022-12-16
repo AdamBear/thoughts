@@ -40,5 +40,6 @@ https://codingcompetitions.withgoogle.com/kickstart/archive
 - [ ] research talking head methods:
 https://github.com/LTT-O/Talking_Head_Generation
 - [X] one leetcode problem a day, 2022/12/15
-- [ ] joined TopCoder and did the tutorial
+- [ ] joined TopCoder and start learning
+- [ ] research FastDeploy and distributed AI model deployment
 
