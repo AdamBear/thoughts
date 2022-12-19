@@ -43,4 +43,5 @@ https://github.com/LTT-O/Talking_Head_Generation
 - [ ] joined TopCoder and start learning
 - [ ] research FastDeploy and distributed AI model deployment
 - [X] research sparrow low code ui
+- [X] SkyChat chinese GPT3 API
 
