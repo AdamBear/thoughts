@@ -44,4 +44,4 @@ https://github.com/LTT-O/Talking_Head_Generation
 - [ ] research FastDeploy and distributed AI model deployment
 - [X] research sparrow low code ui
 - [X] SkyChat chinese GPT3 API
-
+- [X] Practice chrome keying technique with live video stream in python.
