@@ -47,4 +47,4 @@ https://github.com/LTT-O/Talking_Head_Generation
 - [X] Practice chrome keying technique with live video stream in python.
 - [X] compare DFRF and Wav2Lip, DFRF is too slow to train and render
 - [X] research distributed GPU worker solution on autodl platform.
-- [ ] try to fix some minor problems with wav2lip super resolution method
+- [X] try to fix some minor problems with wav2lip super resolution method
