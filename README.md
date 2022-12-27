@@ -49,3 +49,4 @@ https://github.com/LTT-O/Talking_Head_Generation
 - [X] research distributed GPU worker solution on autodl platform.
 - [X] try to fix some minor problems with wav2lip super resolution method
 - [ ] change the face swap method of wav2lip to use 3d wrap and color correction.
+- [ ] research the 3d model of digital human
