@@ -50,4 +50,4 @@ https://github.com/LTT-O/Talking_Head_Generation
 - [X] try to fix some minor problems with wav2lip super resolution method
 - [X] change the face swap method of wav2lip to use 3d wrap and color correction. failed!
 - [ ] research the 3d model of digital human
-- [ ] continue improving my wav2lip solution, 2022/12/30
+- [ ] continue improving my wav2lip solution, 2022/12/31
