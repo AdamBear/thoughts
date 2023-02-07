@@ -56,4 +56,5 @@ https://github.com/LTT-O/Talking_Head_Generation
 build-an-avatar-with-ASR-TTS-Transformer-Omniverse-Audio2Face
 - [ ] research FACIAL solution, 2023/02/07
 https://colab.research.google.com/drive/1jPdxOG6oALEIlLcmYOG9ntq9y0-1709x#scrollTo=1XAtcu0Ry7_Z
-
+- [ ] research PaddleGAN's wav2lip, 2023/02/07
+https://aistudio.baidu.com/aistudio/education/group/info/16651
