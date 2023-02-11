@@ -54,8 +54,9 @@ https://github.com/LTT-O/Talking_Head_Generation
 - [ ] research NVidia's Audio2Lip solution, 2023/01/05
 - [ ] research Audio2Face, 2023/02/07
 build-an-avatar-with-ASR-TTS-Transformer-Omniverse-Audio2Face
-- [ ] research FACIAL solution, 2023/02/07
+- [X] research FACIAL solution, 2023/02/07
 https://colab.research.google.com/drive/1jPdxOG6oALEIlLcmYOG9ntq9y0-1709x#scrollTo=1XAtcu0Ry7_Z
-- [ ] research PaddleGAN's wav2lip, 2023/02/07
+- [X] research PaddleGAN's wav2lip, 2023/02/07
 https://aistudio.baidu.com/aistudio/education/group/info/16651
-- [ ] refactor to original wav2lip , 2023/02/08
+- [X] refactor to original wav2lip , 2023/02/08
+- [ ] research wav2lip finetune, 2023/02/11
