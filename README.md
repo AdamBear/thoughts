@@ -62,3 +62,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] research wav2lip finetune, 2023/02/11
 - [X] integrated SimSwap, 2023/02/14
 - [X] Combine SimSwap and GFPGAN, 2023/02/19
+- [ ] improve the performance of video synthesis pipeline by multiprocess
