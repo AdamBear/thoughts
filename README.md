@@ -64,3 +64,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] Combine SimSwap and GFPGAN, 2023/02/19
 - [X] improve the performance of video synthesis pipeline by multiprocess
 - [ ] research realtime face synthesis though stream line, 2023/02/25
+- [ ] study the restream livestream software, 2023/02/26
