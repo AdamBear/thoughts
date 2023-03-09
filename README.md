@@ -65,7 +65,8 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] improve the performance of video synthesis pipeline by multiprocess
 - [ ] research realtime face synthesis though stream line, 2023/02/25
 - [ ] study the restream livestream software, 2023/02/26
-- [ ] study prompt engineering guid, 2023/02/28
+- [X] study prompt engineering, 2023/02/28
 - [ ] PaddleSpeech voice clone research, 2023/03/02
-- [ ] Play with ChatGPT cookbook, 2023/03/03
-- [ ] practice writing some articles about ChatGPT, 2023/03/07
+- [X] Play with ChatGPT cookbook, 2023/03/03
+- [X] practice writing some articles about ChatGPT, 2023/03/07
+- [ ] zhihu about ChatGPT, 2023/03/09
