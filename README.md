@@ -73,3 +73,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] chatlamma /nebullvm/tree/main/apps/accelerate/chatllama
 - [X] chatglm research, 2023/03/18
 - [ ] webui research, 2023/03/20
+- [X] sadtalker video-retalking research
