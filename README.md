@@ -51,7 +51,7 @@ https://github.com/LTT-O/Talking_Head_Generation
 - [X] change the face swap method of wav2lip to use 3d wrap and color correction. failed!
 - [ ] research the 3d model of digital human, 2023/02/07
 - [ ] continue improving my wav2lip solution, 2023/01/31
-- [ ] research NVidia's Audio2Lip solution, 2023/01/05
+- [X] research NVidia's Audio2Lip solution, 2023/01/05
 - [ ] research Audio2Face, 2023/02/07
 build-an-avatar-with-ASR-TTS-Transformer-Omniverse-Audio2Face
 - [X] research FACIAL solution, 2023/02/07
@@ -74,3 +74,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] chatglm research, 2023/03/18
 - [ ] webui research, 2023/03/20
 - [X] sadtalker video-retalking research
+- [ ] LangChain research
