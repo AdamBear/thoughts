@@ -76,3 +76,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] sadtalker video-retalking research
 - [ ] LangChain research
 - [X] join GPT-4 waitlist
+- [ ] In loving memory of my father
