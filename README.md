@@ -77,3 +77,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] LangChain research
 - [X] join GPT-4 waitlist
 - [ ] In loving memory of my father
+- [ ] recall the memory of my father
