@@ -79,4 +79,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] In loving memory of my father
 - [ ] recall the memory of my father
 - [X] get out of the sadness of losing my farther
-- [ ] study keto diet
+- [X] study keto diet
+- [ ] continue preparing write on zhihu about study and learn
