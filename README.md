@@ -80,4 +80,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] recall the memory of my father
 - [X] get out of the sadness of losing my farther
 - [X] study keto diet
+- [X] installed and test sd webui, 2023/04/18
 - [ ] continue preparing write on zhihu about study and learn
