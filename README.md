@@ -83,3 +83,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] installed and test sd webui, 2023/04/18
 - [X] test different sd model types, such as merge pt and lora.
 - [ ] continue preparing write on zhihu about study and learn
+- [ ] video-retalking sr method integration
