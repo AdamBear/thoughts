@@ -84,3 +84,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] test different sd model types, such as merge pt and lora.
 - [ ] continue preparing write on zhihu about study and learn
 - [ ] video-retalking sr method integration
+- [ ] research COT of large model
+- [ ] chinese Clip with multimodal gpt
