@@ -87,4 +87,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] research COT of large model
 - [ ] chinese Clip with multimodal gpt
 - [X] May Day rest
-- [ ] SadTalker video lip sync optimize
+- [X] SadTalker video lip sync optimize
