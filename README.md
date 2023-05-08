@@ -88,3 +88,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] chinese Clip with multimodal gpt
 - [X] May Day rest
 - [X] SadTalker video lip sync optimize
+- [ ] Try to find another way to improve wav2lip result
