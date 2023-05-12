@@ -90,3 +90,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] SadTalker video lip sync optimize
 - [X] Try to find another way to improve wav2lip result
 - [X] study the microsoft's TaskMatrix project, 2023/05/11
+- [ ] write something about nlp, 2023/05/12
