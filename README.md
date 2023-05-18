@@ -92,3 +92,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] study the microsoft's TaskMatrix project, 2023/05/11
 - [X] write something about nlp, 2023/05/12
 - [ ] chinese clip and stable diffition intergration, 2023/05/14
+- [X] make webui api public accessible, 2023/05/16
