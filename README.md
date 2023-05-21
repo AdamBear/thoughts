@@ -93,5 +93,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] write something about nlp, 2023/05/12
 - [ ] chinese clip and stable diffition intergration, 2023/05/14
 - [X] make webui api public accessible, 2023/05/16
-- [ ] hand on VisualGLM model, 2023/05/21
+- [X] hand on VisualGLM model, 2023/05/21
 - [ ] research sadtalk lip sync method again, 2023/05/20
