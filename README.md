@@ -96,3 +96,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] hand on VisualGLM model, 2023/05/21
 - [ ] research sadtalk lip sync method again, 2023/05/20
 - [ ] ChatGLM mini batching inference servive
+- [ ] Blip research
