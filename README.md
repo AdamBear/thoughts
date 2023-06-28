@@ -98,4 +98,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] ChatGLM mini batching inference servive
 - [X] Blip research
 - [ ] good flash replacement: https://ruffle.rs/blog/
-- [ ] ChatGLM2 hands on, 2023/06/26
+- [X] ChatGLM2 hands on, 2023/06/26
+- [ ] ChatGLM2 Multi-GPU service, 2023/06/28
