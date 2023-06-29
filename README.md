@@ -99,4 +99,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] Blip research
 - [ ] good flash replacement: https://ruffle.rs/blog/
 - [X] ChatGLM2 hands on, 2023/06/26
-- [ ] ChatGLM2 Multi-GPU service, 2023/06/28
+- [X] ChatGLM2 Multi-GPU service, 2023/06/28
+- [ ] ChatGLM2 and langchain intergration test, 2023/06/29
