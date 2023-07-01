@@ -100,4 +100,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] good flash replacement: https://ruffle.rs/blog/
 - [X] ChatGLM2 hands on, 2023/06/26
 - [X] ChatGLM2 Multi-GPU service, 2023/06/28
-- [ ] ChatGLM2 and langchain intergration test, 2023/06/29
+- [X] ChatGLM2 and langchain intergration test, 2023/06/29
+- [ ] ChatGLM2 function call support, 2023/07/01
