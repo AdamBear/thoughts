@@ -102,3 +102,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] ChatGLM2 Multi-GPU service, 2023/06/28
 - [X] ChatGLM2 and langchain intergration test, 2023/06/29
 - [ ] ChatGLM2 function call support, 2023/07/01
+- [ ] Docs upload and vectorize service, 2023/07/04
+- [ ] Document fill helper chain
