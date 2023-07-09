@@ -105,3 +105,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] Docs upload and vectorize service, 2023/07/04
 - [ ] Document fill helper chain
 - [ ] update law demo to support doc chat, 2023/07/05
+- [ ] research PIDM, run demo
