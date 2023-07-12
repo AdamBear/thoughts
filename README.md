@@ -107,3 +107,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] update law demo to support doc chat, 2023/07/05
 - [ ] research PIDM, run demo
 - [ ] video vector store support
+- [ ] zero shot sd video deflicker
