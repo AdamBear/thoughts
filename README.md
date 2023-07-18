@@ -110,3 +110,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] zero shot sd video deflicker
 - [X] digital human with wav2lip update
 - [ ] 4090 wav2lip test
+- [ ] KenTTS research
