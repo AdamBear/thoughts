@@ -111,3 +111,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] digital human with wav2lip update
 - [ ] 4090 wav2lip test
 - [ ] KenTTS research
+- [ ] sd+roop research
