@@ -113,3 +113,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] KenTTS research
 - [ ] sd+roop research
 - [ ] multi-agents resesrch
+- [ ] voice clone service design
