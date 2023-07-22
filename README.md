@@ -114,3 +114,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] sd+roop research
 - [ ] multi-agents resesrch
 - [ ] voice clone service design
+- [ ] how to improve wav2lip sync
