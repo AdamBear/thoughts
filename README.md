@@ -115,3 +115,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] multi-agents resesrch
 - [ ] voice clone service design
 - [ ] how to improve wav2lip sync
+- [ ] pytorch multi-gpu inference improvement
