@@ -117,3 +117,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] how to improve wav2lip sync
 - [ ] pytorch multi-gpu inference improvement
 - [ ] test vid2vid solution, wav2lip to edge then vid2vid
+- [ ] try out fast-vid2vid
