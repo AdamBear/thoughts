@@ -114,7 +114,8 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] sd+roop research
 - [ ] multi-agents resesrch
 - [ ] voice clone service design
-- [ ] how to improve wav2lip sync
-- [ ] pytorch multi-gpu inference improvement
-- [ ] test vid2vid solution, wav2lip to edge then vid2vid
-- [ ] try out fast-vid2vid
+- [X] how to improve wav2lip sync
+- [X] pytorch multi-gpu inference improvement
+- [X] test vid2vid solution, wav2lip to edge then vid2vid
+- [X] try out fast-vid2vid
+https://github.com/megvii-research/ECCV2022-RIFE/issues/278
