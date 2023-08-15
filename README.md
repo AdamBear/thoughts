@@ -119,6 +119,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] test vid2vid solution, wav2lip to edge then vid2vid
 - [X] try out fast-vid2vid
 - [ ] get back tO the llm fields
-- [ ] web33 and ai  future thought
+- [ ] web3 and ai future thought
+- [ ] chatgpt agent support
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
