@@ -122,6 +122,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] web3 and ai future thought
 - [ ] chatgpt agent support
 - [ ] UI design tools
-- [ ] fix the det face detection index out of range problem 
+- [ ] fix the det face detection index out of range problem
+- [ ] investgate some VC projects
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
