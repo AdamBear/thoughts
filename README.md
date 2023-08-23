@@ -124,6 +124,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] UI design tools
 - [ ] fix the det face detection index out of range problem
 - [ ] investgate some VC projects
-- [ ] mcn
+- [ ] mcn plan
+- [ ] fix the xiuke synthesis bug
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
