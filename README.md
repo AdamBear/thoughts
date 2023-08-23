@@ -125,6 +125,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] fix the det face detection index out of range problem
 - [ ] investgate some VC projects
 - [ ] mcn plan
-- [ ] fix the xiuke synthesis bug
+- [X] fix the xiuke synthesis bug
+- [ ] make some research in TTS again 
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
