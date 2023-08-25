@@ -126,6 +126,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] investgate some VC projects
 - [ ] mcn plan
 - [X] fix the xiuke synthesis bug
-- [ ] make some research in TTS again 
+- [ ] make some research in TTS again
+- [ ] VALL-E research and hands on try 
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
