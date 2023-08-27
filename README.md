@@ -127,6 +127,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] mcn plan
 - [X] fix the xiuke synthesis bug
 - [ ] make some research in TTS again
-- [ ] VALL-E research and hands on try 
+- [ ] VALL-E research and hands on try
+- [ ] DP research
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
