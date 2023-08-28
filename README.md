@@ -129,5 +129,6 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] make some research in TTS again
 - [ ] VALL-E research and hands on try
 - [ ] DP research
+- [ ] chartgpt
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
