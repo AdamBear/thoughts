@@ -131,6 +131,8 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] DP research
 - [ ] chartgpt
 - [ ] multimodel qwen
-- [ ] job queue control optimization
+- [X] job queue control optimization
+- [X] RAG method research
+- [ ] qwen function call test
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
