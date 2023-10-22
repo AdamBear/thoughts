@@ -142,5 +142,6 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] qdrant video span vector schema and encode
 - [ ] RAG implements
 - [ ] digital human improvement
+- [ ] qwen agent test
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
