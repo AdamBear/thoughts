@@ -143,5 +143,6 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] RAG implements
 - [ ] digital human improvement
 - [ ] qwen agent test
+- [ ] roop method test
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
