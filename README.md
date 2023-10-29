@@ -144,5 +144,6 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] digital human improvement
 - [ ] qwen agent test
 - [ ] roop method test
+- [ ] swap face app
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
