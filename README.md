@@ -145,6 +145,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] qwen agent test
 - [ ] roop method test
 - [ ] swap face app
-- [ ] batch clip encode process
+- [X] Batch clip encode process
+- [ ] Fast m3e-text encoding process
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
