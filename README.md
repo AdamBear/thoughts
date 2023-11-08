@@ -147,5 +147,6 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] swap face app
 - [X] Batch clip encode process
 - [ ] Fast m3e-text encoding process
+- [ ] single face wave2lip
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
