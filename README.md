@@ -149,8 +149,9 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] Fast m3e-text encoding process
 - [ ] single face wave2lip
 - [ ] wsl2 nvidia docker reinstall
-- [ ] kg and qa vector store
+- [X] kg and qa vector store
 - [ ] chatglm3 intergration to the qa agent service
-- [ ] how to detect the hungging problem of the wav2lip pipeline
+- [X] how to detect the hungging problem of the wav2lip pipeline
+- [ ] agent memory with qdrant 
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
