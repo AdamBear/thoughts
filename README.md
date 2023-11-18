@@ -154,5 +154,6 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] how to detect the hungging problem of the wav2lip pipeline
 - [ ] agent memory with qdrant
 - [ ] research sd-wav2lip-uhq, Portrait-Talker, DiNet, segment-matting, rembg-online
+- [ ] research how to chunk the long text
 https://github.com/megvii-research/ECCV2022-RIFE/issues/278
 
