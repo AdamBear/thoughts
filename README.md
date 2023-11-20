@@ -146,14 +146,12 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] roop method test
 - [ ] swap face app
 - [X] Batch clip encode process
-- [ ] Fast m3e-text encoding process
+- [ X Fast m3e-text encoding process
 - [ ] single face wave2lip
-- [ ] wsl2 nvidia docker reinstall
+- [X] wsl2 nvidia docker reinstall
 - [X] kg and qa vector store
-- [ ] chatglm3 intergration to the qa agent service
+- [X] chatglm3 intergration to the qa agent service
 - [X] how to detect the hungging problem of the wav2lip pipeline
 - [ ] agent memory with qdrant
 - [ ] research sd-wav2lip-uhq, Portrait-Talker, DiNet, segment-matting, rembg-online
 - [ ] research how to chunk the long text
-https://github.com/megvii-research/ECCV2022-RIFE/issues/278
-
