@@ -152,4 +152,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] agent memory with qdrant
 - [ ] research sd-wav2lip-uhq, Portrait-Talker, DiNet, segment-matting, rembg-online
 - [X] research how to chunk the long text
-- [ ] AI writer agent 
+- [ ] AI writer agent
+- [ ] hexo generate service
