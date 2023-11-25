@@ -134,17 +134,13 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] RAG method research
 - [X] qwen function call test
 - [X] material vector store
-- [ ] chroma key process. try out some projects like OBS-Studio-Python-, greencam, obs-web
+- [X] chroma key process. try out some projects like OBS-Studio-Python-, greencam, obs-web
 - [X] qdrant cluster
 - [X] qdrant video span vector schema and encode
 - [X] RAG implements
-- [ ] digital human improvement
 - [X] qwen agent test
-- [ ] roop method test
-- [ ] swap face app
 - [X] Batch clip encode process
 - [X] Fast m3e-text encoding process
-- [ ] single face wave2lip
 - [X] wsl2 nvidia docker reinstall
 - [X] kg and qa vector store
 - [X] chatglm3 intergration to the qa agent service
@@ -153,4 +149,8 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] research sd-wav2lip-uhq, Portrait-Talker, DiNet, segment-matting, rembg-online
 - [X] research how to chunk the long text
 - [ ] AI writer agent
-- [ ] hexo generate service
+- [X] research the static website builder solutions like hexo, hugo and halo
+- [ ] digital human improvement with voice clone implements
+- [ ] roop method test
+- [ ] single face wave2lip
+- [ ] run flowise and learn it's functions
