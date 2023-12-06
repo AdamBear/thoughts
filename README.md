@@ -156,3 +156,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] single face wave2lip
 - [ ] run flowise and learn it's functions
 - [ ] demostrate a write agent that can generate long article with KB support
+- [ ] self recognition finetune
