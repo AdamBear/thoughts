@@ -151,10 +151,10 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] AI writer agent
 - [X] research the static website builder solutions like hexo, hugo and halo
 - [ ] digital human improvement with voice clone implements
-- [ ] integrate modelscope-agent 
+- [X] integrate modelscope-agent 
 - [ ] roop method test
 - [ ] single face wave2lip
-- [ ] run flowise and learn it's functions
+- [X] run flowise and learn it's functions
 - [ ] demostrate a write agent that can generate long article with KB support
 - [ ] self recognition finetune
 - [ ] research zero123plus
