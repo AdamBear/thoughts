@@ -155,6 +155,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] roop method test
 - [ ] single face wave2lip
 - [X] run flowise and learn it's functions
-- [ ] demostrate a write agent that can generate long article with KB support
-- [ ] self recognition finetune
+- [X] demostrate a write agent that can generate long article with KB support
+- [X] self recognition finetune
 - [ ] research zero123plus
+- [ ] research nerf-studio
