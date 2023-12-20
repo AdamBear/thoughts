@@ -157,6 +157,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] run flowise and learn it's functions
 - [X] demostrate a write agent that can generate long article with KB support
 - [X] self recognition finetune
-- [ ] research zero123plus
+- [X] research zero123plus
+- [ ] research 3d face recontruction 
 - [X] research nerf-studio
 - [ ] research nerf 3d talker
