@@ -160,5 +160,6 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] research zero123plus
 - [X] research nerf-studio
 - [ ] research nerf 3d talker header
+- [ ] research 3d face recontruction      
 - [ ] improve SadTalker performance
-- [ ] - [ ] research 3d face recontruction 
+
