@@ -159,7 +159,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] self recognition finetune
 - [X] research zero123plus
 - [X] research nerf-studio
-- [ ] research nerf 3d talker header
-- [ ] research 3d face recontruction      
-- [ ] improve SadTalker performance
-
+- [X] research nerf 3d talker header
+- [X] research 3d face recontruction, do some basic experiment on face3d examples, need further study later
+- [X] improve SadTalker performance
+- [ ] research llmstack
