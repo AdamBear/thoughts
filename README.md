@@ -166,3 +166,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] research gaussian splatting head avatar
 - [ ] reasearch GaussianEditor
 - [ ] nerf head avatar
+- [ ] research 3dmm related project
