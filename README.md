@@ -168,3 +168,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] nerf head avatar
 - [ ] research 3dmm related project
 - [X] recognized a man who is a habitual liar
+- [ ] prepare law prosecution material
