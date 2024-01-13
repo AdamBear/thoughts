@@ -172,3 +172,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] 3dmm extract experiment
 - [ ] test llmstack again
 - [ ] 3dmm thin face
+- [ ] question generation api
+- [ ] chunk question edit api
