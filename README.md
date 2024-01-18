@@ -174,3 +174,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] 3dmm thin face
 - [ ] question generation api
 - [ ] chunk question edit api
+- [ ] follow chatglm4 
