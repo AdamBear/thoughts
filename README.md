@@ -181,3 +181,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] xobserve experiment
 - [ ] ali replaceanything experiment
 - [ ] InstantID experiment
+- [ ] think new path 
