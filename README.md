@@ -183,3 +183,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] InstantID experiment
 - [ ] think new path
 - [ ] geneface++ experiment
+- [ ] Real3DPortrait experiment
+- [ ] how to integrate all 3d face synthesis method
