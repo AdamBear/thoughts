@@ -187,3 +187,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] how to integrate all 3d face synthesis method
 - [ ] fast whisper asr experiment
 - [ ] InstantID intergration
+- [ ] play switch games during spring festival
