@@ -190,3 +190,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] play switch games during spring festival
 - [X] print passport info page
 - [ ] 3d avatar summaries
+- [ ] new todo list
