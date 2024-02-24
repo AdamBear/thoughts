@@ -182,12 +182,12 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] ali replaceanything experiment
 - [ ] InstantID experiment
 - [ ] think new path
-- [ ] geneface++ experiment
-- [ ] Real3DPortrait experiment
+- [X] geneface++ experiment
+- [X] Real3DPortrait experiment
 - [ ] how to integrate all 3d face synthesis method
 - [ ] fast whisper asr experiment
 - [ ] InstantID intergration
 - [ ] play switch games during spring festival
 - [X] print passport info page
-- [ ] 3d avatar summaries
-- [ ] new todo list
+- [X] 3d avatar summaries
+- [X] new todo list
