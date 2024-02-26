@@ -191,3 +191,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] print passport info page
 - [X] 3d avatar summaries
 - [X] new todo list
+- [ ] Sora related research
