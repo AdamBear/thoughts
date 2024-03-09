@@ -196,3 +196,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] latte expriment
 - [X] real3dportrait interface
 - [ ] SyncTalk research
+- [ ] research Awesome-Anything
+- [ ] research Track-Anything
