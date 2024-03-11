@@ -187,14 +187,15 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] how to integrate all 3d face synthesis method
 - [ ] fast whisper asr experiment
 - [ ] InstantID intergration
-- [ ] play switch games during spring festival
+- [X] play switch games during spring festival
 - [X] print passport info page
 - [X] 3d avatar summaries
 - [X] new todo list
-- [ ] Sora related research
+- [X] Sora related research
 - [ ] Crafter Family research
-- [ ] latte expriment
+- [X] latte expriment
 - [X] real3dportrait interface
 - [ ] SyncTalk research
 - [ ] research Awesome-Anything
 - [ ] research Track-Anything
+- [ ] deploy the new RMBG service
