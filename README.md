@@ -199,3 +199,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] research Awesome-Anything
 - [ ] research Track-Anything
 - [ ] deploy the new RMBG service
+- [ ] train and test SyncTalk model
