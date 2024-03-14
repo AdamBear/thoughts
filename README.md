@@ -177,11 +177,11 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] follow chatglm4
 - [ ] llm internal mind research
 - [X] jogging exercise
-- [ ] dreamtalk experiment
+- [X] dreamtalk experiment
 - [ ] xobserve experiment
 - [ ] ali replaceanything experiment
 - [ ] InstantID experiment
-- [ ] think new path
+- [X] think new path
 - [X] geneface++ experiment
 - [X] Real3DPortrait experiment
 - [ ] how to integrate all 3d face synthesis method
@@ -192,11 +192,12 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] 3d avatar summaries
 - [X] new todo list
 - [X] Sora related research
-- [ ] Crafter Family research
+- [X] Crafter Family research
 - [X] latte expriment
 - [X] real3dportrait interface
-- [ ] SyncTalk research
+- [X] SyncTalk research
 - [ ] research Awesome-Anything
 - [ ] research Track-Anything
 - [ ] deploy the new RMBG service
-- [ ] train and test SyncTalk model
+- [X] train and test SyncTalk model
+- [ ] DeepSeek-VL research
