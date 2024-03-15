@@ -201,3 +201,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] deploy the new RMBG service
 - [X] train and test SyncTalk model
 - [ ] DeepSeek-VL research
+- [ ] LaVague research
