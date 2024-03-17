@@ -202,3 +202,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [X] train and test SyncTalk model
 - [ ] DeepSeek-VL research
 - [ ] LaVague research
+- [ ] webui forge research
+- [ ] instanceid face swap research
