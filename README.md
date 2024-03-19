@@ -205,3 +205,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] webui forge research
 - [ ] instanceid face swap research
 - [ ] DynamiCrafter research
+- [ ] OOTDiffusion research
