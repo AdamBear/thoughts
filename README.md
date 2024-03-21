@@ -1,4 +1,4 @@
-7# thoughts
+# thoughts
 record my thoughts, ideas, study
 
 ## To-Do List
@@ -210,4 +210,3 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] whisper_streaming research
 - [ ] audio2photoreal research
 - [ ] HyperReenact research
-- [ ] 
