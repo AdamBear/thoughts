@@ -211,3 +211,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] audio2photoreal research
 - [ ] HyperReenact research
 - [ ] e4s research
+- [ ] lsp research
