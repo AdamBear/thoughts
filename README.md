@@ -209,6 +209,7 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] gligen research gradio interactive demo
 - [ ] whisper_streaming research
 - [ ] audio2photoreal research
-- [ ] HyperReenact research
+- [X] HyperReenact research, performance is not good.
 - [ ] e4s research
 - [ ] lsp research
+- [ ] gpt-prompt-engineer project test. learn how to get a best prompt.
