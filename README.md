@@ -213,3 +213,5 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] e4s research
 - [ ] lsp research
 - [ ] gpt-prompt-engineer project test. learn how to get a best prompt.
+- [ ] ChatGPT-Telegram-Workers research
+- [ ] Contine the OpenSora Researching
