@@ -216,3 +216,4 @@ https://aistudio.baidu.com/aistudio/education/group/info/16651
 - [ ] ChatGPT-Telegram-Workers research
 - [ ] Contine the OpenSora Researching
 - [ ] faster-whisper research
+- [ ] eat-code, otavatar, ip_lap research
